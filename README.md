@@ -1,5 +1,19 @@
 # -Etermine-0xea67-...-
 # Etherchain Light
+echo "# Ethermine-0xea674fdde714fd979de3edf0f56aa9716b898ec8 " >> README.md 
+git init 
+git add README.md 
+git commit -m "prima comitere" 
+git branch -M master 
+git remote adauga origine https://github.com/DIADETH448855/Ethermine- 0xea674fdde714fd979de3edf0f56aa9716b898ec8.git
+ git push -u origin master
+
+git remote adaugă originea https://github.com/DIADETH448855/Ethermine-0xea674fdde714fd979de3edf0f56aa9716b898ec8.git
+ git branch -M master git remote adaugă originea https://github.com/DIADETH448855/
+ git branch -M master 
+git push -u origin master
+git push -u origin master
+
 ### Lightweight blockchain explorer for your private Ethereum chain
 
 Etherchain Light is an Ethereum blockchain explorer built with NodeJS, Express and Parity. It does not require an external database and retrieves all information on the fly from a backend Ethereum node.
