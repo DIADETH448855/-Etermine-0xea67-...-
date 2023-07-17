@@ -1,4 +1,4 @@
-# -Etermine-0xea67-...-
+# Etermine-0xea67-...-
 # Etherchain Light
 echo "# Ethermine-0xea674fdde714fd979de3edf0f56aa9716b898ec8 " >> README.md 
 git init 
