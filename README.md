@@ -1,4 +1,4 @@
-# Etermine-0xea67-...-
+ok# Etermine-0xea67-...-
 #https://github.com/DIADETH448855/Etherchain-light.git
 Etherchain Light
 echo "# Ethermine/0xea674fdde714fd979de3edf0f56aa9716b898ec8.gitm >> README.md 
@@ -20,7 +20,7 @@ Etherchain Light is an Ethereum blockchain explorer built with NodeJS, Express a
 
 While there are several excellent Ethereum blockchain explorers available (etherscan, ether.camp and etherchain) they operate on a fixed subset of Ethereum networks, usually the mainnet and testnet. Currently there are no network agnostic blockchain explorers available. If you want to develop Dapps on a private testnet or would like to launch a private / consortium network, Etherchain Light will allow you to quickly explore such chains.
 
-A demo instance connected to the Kovan Ethereum testnet is available at [light.etherchain.org](http://light.etherchain.org). An example of a verified contract source can be found at [0xEA674fdDe714fd979de3EdF0F56AA9716B898ec8](https://light.etherchain.org/account/0xEA674fdDe714fd979de3EdF0F56AA9716B898ec8). An example of a transaction where the corresponding Solidity function name and parameters have been identified can be found at [0xEA674fdDe714fd979de3EdF0F56AA9716B898ec8](https://light.etherchain.org/tx/0xEA674fdDe714fd979de3EdF0F56AA9716B898ec8)
+A demo instance connected to the Kovan Ethereum testnet is available at [etherchain.org](http://etherchain.org). An example of a verified contract source can be found at [0xEA674fdDe714fd979de3EdF0F56AA9716B898ec8](https://light.etherchain.org/account/0xEA674fdDe714fd979de3EdF0F56AA9716B898ec8). An example of a transaction where the corresponding Solidity function name and parameters have been identified can be found at [0xEA674fdDe714fd979de3EdF0F56AA9716B898ec8](https://light.etherchain.org/tx/0xEA674fdDe714fd979de3EdF0F56AA9716B898ec8)
 
 ## Current Features
 * Browse blocks, transactions, accounts and contracts
