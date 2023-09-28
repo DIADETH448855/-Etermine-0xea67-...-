@@ -8,7 +8,7 @@ git commit -m "prima comitere"
 git branch -M master 
 git remote adauga origine "https://github.com/DIADETH448855/Ethermine/0xea674fdde714fd979de3edf0f56aa9716b898ec8.git push -u origin master
 
-# git remote adaugă originea # https://github.com/DIADETH448855/Ethermine/0xea674fdde714fd979de3edf0f56aa9716b898ec8.git 
+# git remote adaugă originea # "https://github.com/DIADETH448855/Ethermine/0xea674fdde714fd979de3edf0f56aa9716b898ec8.git" 
  git branch -M master git remote adaugă originea  "https://github.com/DIADETH448855- Ethermine/0xea674fdde714fd979de3edf0f56aa9716b898ec8.git"
  git branch -M master 
 git push -u origin master
